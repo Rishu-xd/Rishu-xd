@@ -1,6 +1,17 @@
+
+
+<!-- GITHUBWALLPAPER:START -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/edz9z5qbzlwsr6jh7ie133mb-dark.svg?v=1789574818851">
+  <source media="(prefers-color-scheme: light)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/edz9z5qbzlwsr6jh7ie133mb-light.svg?v=1789574818851">
+  <img alt="GitHub profile card" src="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/edz9z5qbzlwsr6jh7ie133mb-dark.svg?v=1789574818851">
+</picture>
+<p align="right"><sub><a href="https://githubwallpaper.com">made with githubwallpaper.com</a></sub></p>
+<!-- GITHUBWALLPAPER:END -->
+
+
 # 💫 About Me:
 Developer building things that make the web feel a little more alive.<br><br>I work with C++, Python, TypeScript, React, Next.js and FastAPI, with a growing focus on DSA and systems.<br><br>I like turning weird ideas into real, working projects especially interactive UIs, developer tools and experiments that push beyond the usual.<br>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/benzene_artist) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Rishu_XD_0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishu99xd@gmail.com) 
@@ -27,11 +38,3 @@ Developer building things that make the web feel a little more alive.<br><br>I w
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-<!-- GITHUBWALLPAPER:START -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/edz9z5qbzlwsr6jh7ie133mb-dark.svg?v=1789574818851">
-  <source media="(prefers-color-scheme: light)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/edz9z5qbzlwsr6jh7ie133mb-light.svg?v=1789574818851">
-  <img alt="GitHub profile card" src="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/edz9z5qbzlwsr6jh7ie133mb-dark.svg?v=1789574818851">
-</picture>
-<p align="right"><sub><a href="https://githubwallpaper.com">made with githubwallpaper.com</a></sub></p>
-<!-- GITHUBWALLPAPER:END -->
