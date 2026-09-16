@@ -25,3 +25,13 @@ Developer building things that make the web feel a little more alive.<br><br>I w
 [![](https://komarev.com/ghpvc/?username=Rishu-xd&icon=3&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<!-- GITHUBWALLPAPER:START -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/edz9z5qbzlwsr6jh7ie133mb-dark.svg?v=1789574818851">
+  <source media="(prefers-color-scheme: light)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/edz9z5qbzlwsr6jh7ie133mb-light.svg?v=1789574818851">
+  <img alt="GitHub profile card" src="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/edz9z5qbzlwsr6jh7ie133mb-dark.svg?v=1789574818851">
+</picture>
+<p align="right"><sub><a href="https://githubwallpaper.com">made with githubwallpaper.com</a></sub></p>
+<!-- GITHUBWALLPAPER:END -->
