@@ -4,7 +4,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/edz9z5qbzlwsr6jh7ie133mb-light.svg?v=1789575162024">
   <img alt="GitHub profile card" src="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/edz9z5qbzlwsr6jh7ie133mb-dark.svg?v=1789575162024">
 </picture>
-<p align="right"><sub><a href="https://githubwallpaper.com">made with githubwallpaper.com</a></sub></p>
+
 <!-- GITHUBWALLPAPER:END -->
 
 # 💫 About Me:
